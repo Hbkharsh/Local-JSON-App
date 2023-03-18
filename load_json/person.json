@@ -1,0 +1,31 @@
+[
+  {
+    "name" : "harsh vardhan",
+    "age"  : "18",
+    "height" : "182",
+    "gender" : "male",
+    "hair_color" : "black"
+  },
+
+  {
+    "name" : "siddharth raj",
+    "age"  : "20",
+    "height" : "153",
+    "gender" : "male",
+    "hair_color" : "black"
+  },
+  {
+    "name" : "selena gomez",
+    "age"  : "22",
+    "height" : "162",
+    "gender" : "female",
+    "hair_color" : "black"
+  },
+  {
+    "name" : "leonardo star",
+    "age"  : "33",
+    "height" : "192",
+    "gender" : "male",
+    "hair_color" : "white"
+  }
+]
